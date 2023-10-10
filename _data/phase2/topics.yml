@@ -7,43 +7,43 @@
   published: true
 - title: JavaScript Loops & Functions
   phase: 1
-  date: 2023-04-18
-  page: phase1/js-loops-functions.md
+  date: 2023-10-10
+  page: phase2/js-loops-functions.md
   project_name: js_calculator_2
   code_demo: js-basics
-  published: false
+  published: true
 - title: JavaScript Arrays
   phase: 1
   date: 2023-04-19
-  page: phase1/js-arrays.md
+  page: phase2/js-arrays.md
   project_name: js_calculator
   code_demo: js-basics
   published: false
 - title: JS & the DOM
   phase: 1
   date: 2023-04-20
-  page: phase1/js-dom.md
+  page: phase2/js-dom.md
   project_name: js_calculator
   code_demo: js-dom
   published: false
 - title: JavaScript Objects
   phase: 1
   date: 2023-04-24
-  page: phase1/js-objects.md
+  page: phase2/js-objects.md
   project_name:
   code_demo: js-objects
   published: false
 - title: AJAX & APIs
   phase: 1
   date: 2023-04-26
-  page: phase1/js-ajax.md
+  page: phase2/js-ajax.md
   project_name:
   code_demo: ajax
   published: false
 - title: JS and Forms
   phase: 1
   date: 2023-05-01
-  page: phase1/js-forms.md
+  page: phase2/js-forms.md
   project_name: ajax_notes
   code_demo: js-forms
   published: false
