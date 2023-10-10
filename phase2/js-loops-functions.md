@@ -1,10 +1,10 @@
 ---
 layout: topic
 title: JavaScript Loops & Functions
-tags: phase-1 javascript js programming-basics
-parent: Phase 1 Front End
+tags: phase-2 javascript js programming-basics
+parent: Phase 2
 nav_order: 6
-published: false
+published: true
 ---
 
 ## 🎯 Objectives
