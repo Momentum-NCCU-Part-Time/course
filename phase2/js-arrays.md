@@ -1,10 +1,10 @@
 ---
 layout: topic
 title: JavaScript Arrays
-tags: phase-1 javascript js arrays
-parent: Phase 1 Front End
+tags: phase-2 javascript js arrays
+parent: Phase 2 Front End
 nav_order: 7
-published: false
+published: true
 ---
 
 ## 🎯 Objectives

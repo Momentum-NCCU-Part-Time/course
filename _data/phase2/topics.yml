@@ -14,18 +14,18 @@
   published: true
 - title: JavaScript Arrays
   phase: 1
-  date: 2023-04-19
+  date: 2023-10-12
   page: phase2/js-arrays.md
   project_name: js_calculator
   code_demo: js-basics
-  published: false
+  published: true
 - title: JS & the DOM
   phase: 1
-  date: 2023-04-20
+  date: 2023-10-12
   page: phase2/js-dom.md
   project_name: js_calculator
   code_demo: js-dom
-  published: false
+  published: true
 - title: JavaScript Objects
   phase: 1
   date: 2023-04-24
