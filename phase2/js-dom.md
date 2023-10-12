@@ -1,10 +1,10 @@
 ---
 layout: topic
 title: JavaScript and the DOM
-tags: phase-1 javascript js dom
-parent: Phase 1 Front End
+tags: phase-2 javascript js dom
+parent: Phase 2
 nav_order: 8
-published: false
+published: true
 ---
 
 
@@ -21,7 +21,7 @@ This project is due {{ site.data.phase1.projects.js_calculator.due_date | date: 
 
 If you complete part 1, continue to part 2.
 **Continue in the same repository as part 1, nothing additional to clone.** You can read the instructions for
-part 2 [here]({{ site.data.phase1.projects.js_calculator_2.url }}).
+part 2 [here]({{ site.data.phase2.projects.js_calculator_2.url }}).
 
 Use the [notes]({{ site.team_notes_repo }}/blob/main/js-dom.md) and the [example code]({{ site.data.phase1.demos.js_calculator.url }}) as a guide.
 
