@@ -1,10 +1,10 @@
 ---
 layout: topic
 title: JS Objects
-tags: phase-1 javascript js objects
-parent: Phase 1 Front End
+tags: phase-2 javascript js objects
+parent: Phase 2
 nav_order: 9
-published: false
+published: true
 ---
 
 ## 🎯 Objectives

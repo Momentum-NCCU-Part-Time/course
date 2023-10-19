@@ -28,11 +28,11 @@
   published: true
 - title: JavaScript Objects
   phase: 1
-  date: 2023-04-24
+  date: 2023-10-19
   page: phase2/js-objects.md
   project_name:
   code_demo: js-objects
-  published: false
+  published: true
 - title: AJAX & APIs
   phase: 1
   date: 2023-04-26
