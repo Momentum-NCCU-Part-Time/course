@@ -2,7 +2,7 @@
 layout: topic
 title: JavaScript Arrays
 tags: phase-2 javascript js arrays
-parent: Phase 2 Front End
+parent: Phase 2 JavaScript
 nav_order: 7
 published: true
 ---

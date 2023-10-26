@@ -2,7 +2,7 @@
 layout: topic
 title: JS Objects
 tags: phase-2 javascript js objects
-parent: Phase 2
+parent: Phase 2 JavaScript
 nav_order: 9
 published: true
 ---
