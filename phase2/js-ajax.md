@@ -2,9 +2,9 @@
 layout: topic
 title: Getting Data Using APIs with JS and Fetch
 tags: phase-1 javascript js fetch api json ajax
-parent: Phase 1 Front End
+parent: Phase 2 JavaScript
 nav_order: 10
-published: false
+published: true
 ---
 
 ## 🎯 Objectives
@@ -16,12 +16,11 @@ published: false
   - Make GET requests with Insomnia client
   - Make GET requests using the Fetch API and display response data on a page
 
-## 🏗️ Project: Choose Your Own Adventure
+## 🏗️ Project: GitHub Profile Page
 
-Your project is to do _one_ of the following projects. Whichever you choose, it will be due on {{ site.data.projects.ajax_github_profile.due_date | date: "%A, %B %e" }}.
+Your project is due on {{ site.data.projects.ajax_github_profile.due_date | date: "%A, %B %e" }}.
 
 - 🌶 [AJAX GitHub profile]({{ site.data.phase1.projects.ajax_github_profile.url }})
-- 🌶🌶 [AJAX Currency Converter]({{ site.data.phase1.projects.ajax_currency_converter.url }})
 
 ## 🔖 References
 

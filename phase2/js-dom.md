@@ -2,7 +2,7 @@
 layout: topic
 title: JavaScript and the DOM
 tags: phase-2 javascript js dom
-parent: Phase 2
+parent: Phase 2 JavaScript
 nav_order: 8
 published: true
 ---

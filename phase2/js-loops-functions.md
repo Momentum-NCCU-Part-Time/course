@@ -2,7 +2,7 @@
 layout: topic
 title: JavaScript Loops & Functions
 tags: phase-2 javascript js programming-basics
-parent: Phase 2
+parent: Phase 2 JavaScript
 nav_order: 6
 published: true
 ---

@@ -35,11 +35,11 @@
   published: true
 - title: AJAX & APIs
   phase: 1
-  date: 2023-04-26
+  date: 2023-10-26
   page: phase2/js-ajax.md
   project_name:
   code_demo: ajax
-  published: false
+  published: true
 - title: JS and Forms
   phase: 1
   date: 2023-05-01
