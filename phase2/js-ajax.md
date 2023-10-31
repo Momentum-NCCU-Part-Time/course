@@ -18,7 +18,7 @@ published: true
 
 ## 🏗️ Project: GitHub Profile Page
 
-Your project is due on {{ site.data.projects.ajax_github_profile.due_date | date: "%A, %B %e" }}.
+Your project is due on {{ site.data.phase1.projects.ajax_github_profile.due_date | date: "%A, %B %e" }}.
 
 - 🌶 [AJAX GitHub profile]({{ site.data.phase1.projects.ajax_github_profile.url }})
 
