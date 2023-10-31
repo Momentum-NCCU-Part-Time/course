@@ -20,7 +20,7 @@ published: true
 
 Your project is due on {{ site.data.projects.ajax-notes.due_date | date: "%A, %B %e" }}.
 
-- 🌶 [AJAX Note Taking App]({{ site.data.phase1.projects.ajax-notes.url }})
+- 🌶 [AJAX Note Taking App]({{ site.data.phase2.projects.ajax-notes.url }})
 
 ## 🔖 References
 
