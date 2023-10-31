@@ -26,3 +26,7 @@ djangogirls_tutorial:
 django-duplex:
   project_template: https://github.com/momentum-assignments/django--duplex
   url: https://classroom.github.com/a/qtFxW2b-
+ajax-notes:
+  project_template: https://github.com/Momentum-NCCU-Part-Time/ajax--notes
+  url: https://classroom.github.com/a/8CLYtKZp
+  due_date: 2023-11-07

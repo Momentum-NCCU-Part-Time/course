@@ -13,7 +13,7 @@ published: true
 - The next task is to prepare to start working with fetch and AJAX.
   - Using JSON for data
   - Basics of HTTP requests
-  - Make GET requests with Insomnia client
+  - Make GET requests with `curl`
   - Make GET requests using the Fetch API and display response data on a page
 
 ## 🏗️ Project: GitHub Profile Page
