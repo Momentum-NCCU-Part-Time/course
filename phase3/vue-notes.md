@@ -17,6 +17,7 @@ published: true
 
 ## 🏗️ Project: Vue Note Taking APP
 
+[Vue Note Taking App]({{ site.data.phase3.projects.url }})
 This project is due {{ site.data.phase3.projects.vue-notes.due_date | date: "%A, %B %e" }}.
 
 ## 🔖 References
