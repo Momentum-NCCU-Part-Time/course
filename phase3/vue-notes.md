@@ -14,7 +14,6 @@ published: true
 - Component-based UI
 - DOM manipulation
 
-
 ## 🏗️ Project: Vue Note Taking APP
 
 [Vue Note Taking App]({{ site.data.phase3.projects.vue-notes.url }})
@@ -22,4 +21,4 @@ This project is due {{ site.data.phase3.projects.vue-notes.due_date | date: "%A,
 
 ## 🔖 References
 
-- [Vue References][vue]
+- [Vue References]({% link references/vue.md %})

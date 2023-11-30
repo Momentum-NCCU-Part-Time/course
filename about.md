@@ -3,6 +3,7 @@ layout: page
 title: Help & Info
 description: >-
   Information about how to make the most of what's here
+nav_order: 8
 ---
 
 {% include summary_toc.html %}

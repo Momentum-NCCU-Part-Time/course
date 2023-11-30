@@ -5,7 +5,7 @@ description: Modern Web Applications with Vue
 has_children: true
 has_toc: true
 toc_ol: true
-nav_order: 4
+nav_order: 5
 nav_exclude: false
 ---
 
