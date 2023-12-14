@@ -5,3 +5,10 @@
   page: phase3/vue-notes.md
   code_demo: none
   published: true
+- title: Vue Shopping List
+  phase: 3
+  date: 2023-12-14
+  project_name: vue-shopping-list
+  page: phase3/vue-shopping-list.md
+  code_demo: none
+  published: true
