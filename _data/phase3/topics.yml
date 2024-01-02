@@ -3,12 +3,31 @@
   date: 2023-11-28
   project_name: vue-notes
   page: phase3/vue-notes.md
-  code_demo: none
   published: true
 - title: Vue Shopping List
   phase: 3
   date: 2023-12-14
   project_name: vue-shopping-list
   page: phase3/vue-shopping-list.md
-  code_demo: none
   published: true
+- title: Intro to Back End with Node.js
+  phase: 3
+  date: 2024-01-02
+  project_name: node-word-frequency
+  page: phase3/intro-be.md
+  code_demo: 
+  published: true
+- title: Node & Express
+  phase: 3
+  date: 2024-01-04
+  project_name: node-word-frequency
+  page: phase3/
+  code_demo: 
+  published: 
+- title: Node & Express
+  phase: 3
+  date: 2024-01-02
+  project_name: node-word-frequency
+  page: phase3/intro-be.md
+  code_demo: 
+  published:
