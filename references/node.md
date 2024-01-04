@@ -37,6 +37,12 @@ layout: resource_list
 - [How to build and structure a Node.js MVC application](https://www.sitepoint.com/node-js-mvc-application/)
 - [How to create a REST API with Node.js and Express](https://blog.postman.com/how-to-create-a-rest-api-with-node-js-and-express/)
 
+## Basics of web applications
+
+- [The Absolute Beginner's Guide to Web Applications](https://rinaarts.com/the-absolute-beginners-guide-to-web-applications/)
+- [What is a web application?](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction)
+- [Web Applications 101](https://www.robinwieruch.de/web-applications/)
+
 ## Intro to REST APIs
 
 - [Notes: REST APIs 101]({{ site.team_notes_repo }}/blob/main/rest.md)
@@ -48,6 +54,7 @@ layout: resource_list
 - [A Beginner's Guide to REST](https://mlsdev.com/blog/81-a-beginner-s-tutorial-for-understanding-restful-api)
 - [REST APIs: How They Work and What You Need to Know](https://blog.hubspot.com/website/what-is-rest-api)
 - [CRUD](https://www.postman.com/api-glossary/#crud)
+
 
 ## Express
 
