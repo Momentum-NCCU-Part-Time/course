@@ -19,7 +19,10 @@ published: true
 
 This project is due {{ site.data.phase3.projects.node-word-frequency.due_date | date: "%A, %B %e" }}.
 
+If you finish this early and want another challenge, try the [Node.js Weather project](https://classroom.github.com/a/AkT_qvK2).
+
 ## 🔖 References
 
-- [Node notes]({% link references/node.md %})
+- [Node notes](https://github.com/Momentum-NCCU-Part-Time/notes/blob/main/node.md)
+- [RESTful APIs](https://github.com/Momentum-NCCU-Part-Time/notes/blob/main/rest.md)
 - [Node.js]({% link references/node.md %})

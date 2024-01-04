@@ -10,6 +10,7 @@ layout: resource_list
 ## Basics of Node
 
 - [Official Node docs: Introduction to Node.js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
+- [FreeCodeCamp: Getting Started with Node.js](https://www.freecodecamp.org/news/introduction-to-nodejs/)
 - [Running Node.js from the command line](https://nodejs.org/en/learn/command-line/run-nodejs-scripts-from-the-command-line)
 - [Difference between Node.js and JavaScript](https://www.geeksforgeeks.org/difference-between-node-js-and-javascript/)
 - [Differences between Node.js and the Browser](https://nodejs.org/en/learn/getting-started/differences-between-nodejs-and-the-browser)
