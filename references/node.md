@@ -1,5 +1,5 @@
 ---
-title: Node.js
+title: Node.js & Express.js
 category: JavaScript
 parent: References
 layout: resource_list
@@ -17,6 +17,7 @@ layout: resource_list
 - [Nodemon](https://nodemon.io/) _Nodemon (like "node monitor") is a tool that is useful during development; it automatically restarts the node application when file changes in the directory are detected._
 - [Callback Functions](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)
 - [The JS Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [Friendly video explanation of non-blocking I/O and how Node works and what it's good at](https://www.youtube.com/watch?v=wB9tIg209-8)
 
 ## Modules
 
@@ -55,9 +56,13 @@ layout: resource_list
 - [REST APIs: How They Work and What You Need to Know](https://blog.hubspot.com/website/what-is-rest-api)
 - [CRUD](https://www.postman.com/api-glossary/#crud)
 
-
 ## Express
 
 - [Express Official Docs](https://expressjs.com/)
+
+### Routing
+
+- [Express Basic Routing](https://expressjs.com/en/starter/basic-routing.html)
+- [Express Routing Guide](https://expressjs.com/en/guide/routing.html)
 
 {% include reference_links.md %}

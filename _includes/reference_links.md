@@ -20,18 +20,6 @@
 [js-dates]: {% link references/js-general.md %}#working-with-dates
 [js-forms]: {% link references/js-general.md %}
 
-<!-- phase 2 back end -->
-[python-setup]:{% link references/py-basics.md %}#dev-setup
-[essential-python]: {% link references/py-basics.md %}#essential-python
-[jupyter]: {% link references/py-basics.md %}#jupyter-notebooks
-[realpython-tutorials]: {% link references/py-basics.md %}#real-python-tutorials
-[lists]: {% link references/py-basics.md %}#lists-and-list-comprehensions
-[sorting]: {% link references/py-basics.md %}#sorting-and-lambdas
-[dicts]: {% link references/py-basics.md %}#dictionaries
-[py-oo]: {% link references/py-basics.md %}#object-oriented-python
-[py-classes]: {% link references/py-basics.md %}#classes-in-python
-[py-debugging]: {% link references/py-basics.md %}#debugging
-
 <!-- tools -->
 [markdown]: {% link references/tools.md %}#markdown
 [note-taking]: {% link references/tools.md %}#taking-notes-as-a-developer
@@ -41,3 +29,8 @@
 [slack]: {% link references/tools.md %}#slack
 [vscode]: {% link references/tools.md %}#using-vs-code
 
+<!-- node & express -->
+[express]: {% link references/node.md %}#express
+[rest]: {% link references/node.md %}#intro-to-rest-apis
+[cors]: {% link references/http.md %}#cors
+[http-headers]: {% link references/http.md %}#headers
