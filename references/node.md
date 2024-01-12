@@ -59,6 +59,7 @@ layout: resource_list
 ## Express
 
 - [Express Official Docs](https://expressjs.com/)
+- [How to log HTTP requests and errors with morgan](https://www.digitalocean.com/community/tutorials/nodejs-getting-started-morgan)
 
 ### Routing
 
