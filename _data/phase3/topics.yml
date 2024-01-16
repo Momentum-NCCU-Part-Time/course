@@ -24,3 +24,10 @@
   page: phase3/express.md
   code_demo: 
   published: true
+- title: More Express.js
+  phase: 3
+  date: 2024-01-16
+  project_name: express-dates
+  page: phase3/more-express.md
+  code_demo: 
+  published: true

@@ -44,6 +44,12 @@ layout: resource_list
 - [What is a web application?](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction)
 - [Web Applications 101](https://www.robinwieruch.de/web-applications/)
 
+## Debugging Node Applications
+
+- [Debugging Node.js Applications](https://nodejs.org/en/docs/guides/debugging-getting-started/)
+- [Node.js Debugging in VS Code](https://code.visualstudio.com/docs/nodejs/nodejs-debugging)
+- [Debugging JS with Chrome Dev Tools](https://developer.chrome.com/docs/devtools/javascript) _this is relevant for node and for client-side js, focusing on what the options in the Sources tab do_
+
 ## Intro to REST APIs
 
 - [Notes: REST APIs 101]({{ site.team_notes_repo }}/blob/main/rest.md)
