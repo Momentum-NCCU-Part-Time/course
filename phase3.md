@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Phase 3 Vue
+title: Phase 3 Vue & Node.js
 description: Modern Web Applications with Vue
 has_children: true
 has_toc: true

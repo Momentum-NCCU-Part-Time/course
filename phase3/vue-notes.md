@@ -2,7 +2,7 @@
 layout: topic
 title: Vue and Components
 tags: phase-3 Vue JS
-parent: Phase 3 Vue
+parent: Phase 3 Vue & Node.js
 nav_order: 10
 published: true
 ---

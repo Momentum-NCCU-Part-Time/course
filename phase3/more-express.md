@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: More Express.js
-parent: Phase 3 Vue
+parent: Phase 3 Vue & Node.js
 nav_order: 14
 published: true
 ---

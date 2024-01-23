@@ -31,3 +31,10 @@
   page: phase3/more-express.md
   code_demo: 
   published: true
+- title: REST APIs
+  phase: 3
+  date: 2024-01-23
+  project_name: 
+  page: phase3/rest.md
+  code_demo: 
+  published: true

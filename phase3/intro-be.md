@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: Node.js and running JavaScript outside the browser
-parent: Phase 3 Vue
+parent: Phase 3 Vue & Node.js
 nav_order: 12
 published: true
 ---

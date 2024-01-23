@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: Web Applications with Node.js and Express.js
-parent: Phase 3 Vue
+parent: Phase 3 Vue & Node.js
 nav_order: 13
 published: true
 ---
