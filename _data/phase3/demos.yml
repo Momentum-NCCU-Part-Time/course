@@ -1,2 +1,4 @@
 vue:
   url: https://vuejs.org
+express-crud:
+  url: https://github.com/Momentum-NCCU-Part-Time/example-express-crud

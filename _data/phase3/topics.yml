@@ -35,17 +35,19 @@
   phase: 3
   date: 2024-01-23
   page: phase3/rest.md
-  code_demo: https://github.com/Momentum-NCCU-Part-Time/example-express-crud
+  project_name: 
+  code_demo: express-crud
   published: true
 - title: MongoDB
   phase: 3
   date: 2024-01-25
   page: phase3/mongodb.md
-  code_demo: https://github.com/Momentum-NCCU-Part-Time/example-express-crud
+  code_demo: express-crud
   published: true
 - title: CRUD Endpoints with Mongoose
   phase: 3
   date: 2024-01-30
   page: phase3/mongoose-crud.md
-  code_demo: https://github.com/Momentum-NCCU-Part-Time/example-express-crud
+  code_demo: express-crud
   published: true
+  project_name: express-shopping-list-api-part-one
