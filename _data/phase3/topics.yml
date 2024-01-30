@@ -43,3 +43,9 @@
   page: phase3/mongodb.md
   code_demo: https://github.com/Momentum-NCCU-Part-Time/example-express-crud
   published: true
+- title: CRUD Endpoints with Mongoose
+  phase: 3
+  date: 2024-01-30
+  page: phase3/mongoose-crud.md
+  code_demo: https://github.com/Momentum-NCCU-Part-Time/example-express-crud
+  published: true

@@ -34,3 +34,4 @@
 [rest]: {% link references/node.md %}#intro-to-rest-apis
 [cors]: {% link references/http.md %}#cors
 [http-headers]: {% link references/http.md %}#headers
+[mongoose]: {% link references/mongodb.md %}#mongoose
