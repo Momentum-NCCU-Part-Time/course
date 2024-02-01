@@ -24,14 +24,26 @@ layout: resource_list
 - [Mongoose](https://mongoosejs.com/)
 - [MongoDB + Mongoose](https://www.mongodb.com/developer/languages/javascript/getting-started-with-mongodb-and-mongoose/)
 - [How to perform CRUD operations with Mongoose & MongoDB Atlas](https://www.digitalocean.com/community/tutorials/nodejs-crud-operations-mongoose-mongodb-atlas)
+- [An Introduction to Mongoose's save() Function](https://masteringjs.io/tutorials/mongoose/save)
 - [Mongoose 101](https://zellwk.com/blog/mongoose/)
+- [An Introduction to Mongoose Schema Types](https://masteringjs.io/tutorials/mongoose/schematype)
+- [An Introduction to Mongoose Schemas](https://masteringjs.io/tutorials/mongoose/schema)
 - [Mongoose Timestamps](https://mongoosejs.com/docs/timestamps.html)
 
-### MongoDB Relationships & Mongoose Subdocuments
+### MongoDB Relationships
 
 - [Modeling relationships in MongoDB](https://www.mongodb.com/docs/v6.0/applications/data-models-relationships/)
+
+#### Linked Documents (Refs in Mongoose)
+
+- [Mongoose docs: Populate & Ref](https://mongoosejs.com/docs/populate.html)
+- [Introduction to Mongoose Populate](https://masteringjs.io/tutorials/mongoose/populate)
+
+#### Embedded Documents (Subdocuments in Mongoose)
+
 - [Mongoose docs: Subdocuments](https://mongoosejs.com/docs/subdocs.html)
 - [Mongoose 101: Subdocuments](https://zellwk.com/blog/mongoose-subdocuments/)
+- [Introduction to Mongoose Arrays](https://masteringjs.io/tutorials/mongoose/array)
 
 ### Mongoose Queries
 

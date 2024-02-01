@@ -51,3 +51,10 @@
   code_demo: express-crud
   published: true
   project_name: express-shopping-list-api-part-one
+- title: More CRUD with Mongoose
+  phase: 3
+  date: 2024-02-01
+  page: phase3/more-mongoose-crud.md
+  code_demo: express-crud
+  published: true
+  project_name: express-shopping-list-api-part-one
