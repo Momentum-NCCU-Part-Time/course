@@ -58,3 +58,10 @@
   code_demo: express-crud
   published: true
   project_name: express-shopping-list-api-part-one
+- title: Mongoose Relationships
+  phase: 3
+  date: 2024-02-06
+  page: phase3/mongoose-relationships.md
+  code_demo: express-crud
+  published: true
+  project_name: express-shopping-list-api-part-two
