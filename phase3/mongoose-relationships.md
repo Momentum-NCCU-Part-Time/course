@@ -28,7 +28,7 @@ Add model and CRUD support for items on the shopping list.
 
 Users should be able to see all the items on a given shopping list when they see the detail of a shopping list. They should be able to add, update, and delete items on a shopping list.
 
-1. **Update your model**: You should create a new Schema for a shopping list item. A list item should have a name, a quantity, a "done" or "crossed off" field (you can name it whatever you want), and timestamps for createdAt and updatedAt. Update your Shopping List model to include nested items on the shopping list (in Mongoose these are called subdocuments).
+1. **Update your model**: Update your Shopping List model to include nested items on the shopping list (in Mongoose these are called subdocuments). A list item should have a name, a quantity, a "done" or "crossed off" field (you can name it whatever you want), and timestamps for createdAt and updatedAt.
 
 2. **Update your endpoints or create new ones**: Revisit your existing endpoints and make whatever changes are necessary to support creating, reading, updating, and deleting items on the shopping list. You may need to create new endpoints for this, and/or you may update existing endpoints. **Use RESTful guidelines and remember that you should only build what you need.**
 
