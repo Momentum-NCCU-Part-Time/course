@@ -18,9 +18,9 @@ published: true
 
 Continue working in the same repository you have been working in (the link below will take you to that same repo). There is no new README for part three, but the requirements are listed below.
 
-- [Shopping List API Project Part Three]({{ site.data.phase3.projects.express-shopping-list-api-part-two.url }})
+- [Shopping List API Project Part Three]({{ site.data.phase3.projects.express-shopping-list-api-part-three.url }})
 
-This third part is **due {{ site.data.phase3.projects.express-shopping-list-api-part-two.due_date | date: "%A, %B %-d"}}**.
+This third part is **due {{ site.data.phase3.projects.express-shopping-list-api-part-three.due_date | date: "%A, %B %-d"}}**.
 
 ### Requirements for Part Three
 
