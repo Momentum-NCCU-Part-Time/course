@@ -72,3 +72,10 @@
   code_demo: express-crud
   published: true
   project_name: express-shopping-list-api-part-three
+- title: Authentication & Authorization
+  phase: 3
+  date: 2024-02-20
+  page: phase3/auth.md
+  code_demo: express-crud
+  published: false
+  project_name: express-shopping-list-api-part-three

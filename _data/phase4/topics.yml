@@ -1,0 +1,7 @@
+- title: Final Projects & Agile Development
+  phase: 4
+  date: 2024-02-15
+  page: phase4/agile-projects.md
+  code_demo: express-crud
+  published: true
+  project_name: express-shopping-list-api-part-three

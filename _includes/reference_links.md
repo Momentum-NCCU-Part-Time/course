@@ -35,3 +35,17 @@
 [cors]: {% link references/http.md %}#cors
 [http-headers]: {% link references/http.md %}#headers
 [mongoose]: {% link references/mongodb.md %}#mongoose
+
+<!-- Agile Development -->
+[agile-101]: {% link references/agile-development.md %}#intro-to-agile-development
+[agile-practices]: {% link references/agile-development.md %}#agile-practices
+[time-management]: {% link references/agile-development.md %}#time-management
+[team-charter]: {% link references/agile-development.md %}#team-charter
+[idea-generation]: {% link references/agile-development.md %}#idea-generation
+[agile-development]: {% link references/agile-development.md %}#agile-development
+[software-business]:{% link references/agile-development.md %}#the-business-of-making-software
+[slides]: {% link references/agile-development.md %}#slides
+[user-stories]: {% link references/agile-development.md %}#user-stories
+[user-personas]: {% link references/agile-development.md %}#user-personas
+[user-flows]: {% link references/agile-development.md %}#user-flows
+[tasks]:{% link references/agile-development.md %}#going-from-user-stories-to-tasks
