@@ -4,4 +4,10 @@
   page: phase4/agile-projects.md
   code_demo: express-crud
   published: true
-  project_name: express-shopping-list-api-part-three
+- title: Agile 101
+  phase: 4
+  date: 2024-02-20
+  page: phase4/agile-dev.md
+  code_demo: express-crud
+  published: true
+  project: final-project
